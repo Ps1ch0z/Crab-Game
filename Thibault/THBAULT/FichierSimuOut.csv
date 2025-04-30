@@ -1,0 +1,39 @@
+
+Nombre de postes;3
+Temps de traitement par postes;2;1;3;
+Périodicité des nouveaux produits;1
+Durée de la simulation;7
+
+
+Temps : 0
+;Poste 1 :;En traitement;0;Temps restant;2;En attente;;
+;Poste 2 :;En traitement;  ;Temps restant;  ;En attente;;
+;Poste 3 :;En traitement;  ;Temps restant;  ;En attente;;
+Temps : 1
+;Poste 1 :;En traitement;0;Temps restant;1;En attente;1;
+;Poste 2 :;En traitement;  ;Temps restant;  ;En attente;;
+;Poste 3 :;En traitement;  ;Temps restant;  ;En attente;;
+Temps : 2
+;Poste 1 :;En traitement;1;Temps restant;2;En attente;2;
+;Poste 2 :;En traitement;0;Temps restant;1;En attente;;
+;Poste 3 :;En traitement;  ;Temps restant;  ;En attente;;
+Temps : 3
+;Poste 1 :;En traitement;1;Temps restant;1;En attente;2;3;
+;Poste 2 :;En traitement;  ;Temps restant;  ;En attente;;
+;Poste 3 :;En traitement;0;Temps restant;3;En attente;;
+Temps : 4
+;Poste 1 :;En traitement;2;Temps restant;2;En attente;3;4;
+;Poste 2 :;En traitement;1;Temps restant;1;En attente;;
+;Poste 3 :;En traitement;0;Temps restant;2;En attente;;
+Temps : 5
+;Poste 1 :;En traitement;2;Temps restant;1;En attente;3;4;5;
+;Poste 2 :;En traitement;  ;Temps restant;  ;En attente;;
+;Poste 3 :;En traitement;0;Temps restant;1;En attente;1;
+Temps : 6
+;Poste 1 :;En traitement;3;Temps restant;2;En attente;4;5;6;
+;Poste 2 :;En traitement;2;Temps restant;1;En attente;;
+;Poste 3 :;En traitement;1;Temps restant;3;En attente;;
+Temps : 7
+;Poste 1 :;En traitement;3;Temps restant;1;En attente;4;5;6;7;
+;Poste 2 :;En traitement;  ;Temps restant;  ;En attente;;
+;Poste 3 :;En traitement;1;Temps restant;2;En attente;2;

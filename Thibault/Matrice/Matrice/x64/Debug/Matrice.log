@@ -1,0 +1,9 @@
+﻿  Tableaux.c
+E:\Ecole\Programmation\Modules\Tableaux.c(131,14): warning C4129: « e » : séquence d’échappement de caractères non reconnue
+  Matrice.c
+E:\Ecole\Programmation\Matrice\Matrice.c(22,29): warning C4047: 'fonction' : les niveaux d'indirection de 'int *' et de 'int (*)[100]' sont différents
+E:\Ecole\Programmation\Matrice\Matrice.c(22,29): warning C4024: 'CalcElemDif' : types différents pour le paramètre formel et réel 4
+E:\Ecole\Programmation\Matrice\Matrice.c(8,41): warning C4101: 'diag1' : variable locale non référencée
+E:\Ecole\Programmation\Matrice\Matrice.c(8,48): warning C4101: 'diag2' : variable locale non référencée
+  Génération de code en cours...
+  Matrice.vcxproj -> E:\Ecole\Programmation\Matrice\x64\Debug\Matrice.exe

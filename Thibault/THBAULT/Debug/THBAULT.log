@@ -1,0 +1,5 @@
+﻿  Thibault.c
+E:\Ecole\Programmation\THBAULT\Thibault.c(24,56): warning C4101: 'k' : variable locale non référencée
+E:\Ecole\Programmation\THBAULT\Thibault.c(25,8): warning C4101: 'cheminacces' : variable locale non référencée
+E:\Ecole\Programmation\THBAULT\Thibault.c(127,25): warning C4022: 'free' : incompatibilité de pointeur pour le paramètre réel 1
+  THBAULT.vcxproj -> E:\Ecole\Programmation\THBAULT\Debug\THBAULT.exe
